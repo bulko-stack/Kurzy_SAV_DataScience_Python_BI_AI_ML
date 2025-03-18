@@ -17,10 +17,10 @@
 ![22 03 2023 16_45_58-Python Tutor code visualizer_ Visualize code in Python, JavaScript, C, C++, and ](https://user-images.githubusercontent.com/24510943/229387393-5313d85f-8972-4679-af9b-105d6c13de5c.png)
 
 ## ⌚ Prehľad kurzov a termínov
-[Portfólio kurzov](https://eurocc.nscc.sk/it-kurzy/)
-[Prehľad kurzov OLD](https://itkurzy.sav.sk/kurzy)
+[Portfólio kurzov](https://eurocc.nscc.sk/it-kurzy/)  
+[Prehľad kurzov OLD](https://itkurzy.sav.sk/kurzy)  
 
-### Zoznam kurzov
+## 😎 Zoznam kurzov
 1. Základy programovacieho jazyku Python
 2. Python - Objektové programovanie
 3. Python - Objektové programovanie II
