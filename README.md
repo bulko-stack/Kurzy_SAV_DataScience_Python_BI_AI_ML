@@ -25,29 +25,35 @@
 2. Python - Objektové programovanie
 3. Python - Objektové programovanie II
 4. Spracovanie a Vizualizácia Dát v Pythone
-5. Python - Neurónové siete s knižnicou TensorFlow
-6. Python Štandardná Knižnica
-7. Databázy a Jazyk SQL 1
-8. Databázy a Jazyk SQL 2
-9. Python a Spracovanie Dát z Databázy
-10. Štatistika v R
-11. Štatistika v R - Spracovanie a vizualizácia dát
-12. Python - Automatizácia Úloh
-13. Jemný Úvod do AI
-14. AI a ChatGPT I. Začiatočník
-15. AI a ChatGPT II. Mierne Pokročilý
-16. Julia I. Začiatočník
-17. Julia II. Mierne Pokročilý
-18. Datamining a Parsovanie v Pythone
-19. Strojové učenie (Machine Learning ML) v Pythone (scikit-learn)
-20. Programovací jazyk Julia 1 (začiatočník)
-21. Interaktívne vizualizácie v Pythone 1 - Plotly a Bokeh
-22. Interaktívne vizualizácie v Pythone 2 - Streamlit
-23. Vysokovýkonné počítanie v Pythone HPC a Big Data
-24. Git a GitHub I. Začiatočník
-25. Git a GitHub II. Mierne Pokročilý
-26. Databázy a PostgreSQL 1 (Začiatočník)
-27. Databázy a PostgreSQL 2 (Mierne pokročilý)
+6. Python – Neurónové siete S knižnicou Keras
+7. Python Štandardná Knižnica
+8. Databázy a Jazyk SQL 1
+9. Databázy a Jazyk SQL 2
+10. Python a Spracovanie Dát z Databázy
+11. Testovanie Softvéru v Python I. Začiatočník
+12. Štatistika v R
+13. Štatistika v R - Spracovanie a vizualizácia dát
+14. Python - Automatizácia Úloh
+15. Python - Štandardná Knižnica 
+16. Jemný Úvod do AI
+17. AI a ChatGPT I. Začiatočník
+18. AI a ChatGPT II. Mierne Pokročilý
+19. Julia I. Začiatočník
+20. Julia II. Mierne Pokročilý
+21. Datamining a Parsovanie v Pythone
+22. Strojové učenie (Machine Learning ML) v Pythone (scikit-learn)
+23. Strojové Učenie (Machine Learning ML) V Pythone (scikit-learn) zamerané Na Regresiu
+24. Programovací jazyk Julia 1 (začiatočník)
+25. Interaktívne vizualizácie v Pythone 1 - Plotly a Bokeh
+26. Interaktívne vizualizácie v Pythone 2 - Streamlit
+27. Vysokovýkonné počítanie v Pythone HPC a Big Data
+28. Apache Spark a Veľké Dáta
+29. Fastapi Framework
+30. Git a GitHub I. Začiatočník
+31. Git a GitHub II. Mierne Pokročilý
+32. Databázy a PostgreSQL 1 (Začiatočník)
+33. Databázy a PostgreSQL 2 (Mierne pokročilý)
+34. Oracle Databázy A Jazyk Sql (Oracle Db) I. Začiatočník
 
 ## 📈 YouTube video záznamy z kurzov
 [YouTube kanál Miroslav Reiter - VITA Academy](https://www.youtube.com/@VITA-Academy/)
