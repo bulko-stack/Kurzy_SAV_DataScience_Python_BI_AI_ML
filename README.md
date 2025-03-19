@@ -25,7 +25,7 @@
 2. Python - Objektové programovanie
 3. Python - Objektové programovanie II
 4. Spracovanie a Vizualizácia Dát v Pythone
-6. Python – Neurónové siete S knižnicou Keras
+6. Python – Neurónové siete s knižnicou Keras
 7. Python Štandardná Knižnica
 8. Databázy a Jazyk SQL 1
 9. Databázy a Jazyk SQL 2
@@ -42,18 +42,18 @@
 20. Julia II. Mierne Pokročilý
 21. Datamining a Parsovanie v Pythone
 22. Strojové učenie (Machine Learning ML) v Pythone (scikit-learn)
-23. Strojové Učenie (Machine Learning ML) V Pythone (scikit-learn) zamerané Na Regresiu
+23. Strojové Učenie (Machine Learning ML) v Pythone (scikit-learn) zamerané Na Regresiu
 24. Programovací jazyk Julia 1 (začiatočník)
 25. Interaktívne vizualizácie v Pythone 1 - Plotly a Bokeh
 26. Interaktívne vizualizácie v Pythone 2 - Streamlit
 27. Vysokovýkonné počítanie v Pythone HPC a Big Data
 28. Apache Spark a Veľké Dáta
-29. Fastapi Framework
+29. FastAPI Framework
 30. Git a GitHub I. Začiatočník
 31. Git a GitHub II. Mierne Pokročilý
 32. Databázy a PostgreSQL 1 (Začiatočník)
 33. Databázy a PostgreSQL 2 (Mierne pokročilý)
-34. Oracle Databázy A Jazyk Sql (Oracle Db) I. Začiatočník
+34. Oracle Databázy A Jazyk SQL (Oracle DB) I. Začiatočník
 
 ## 📈 YouTube video záznamy z kurzov
 [YouTube kanál Miroslav Reiter - VITA Academy](https://www.youtube.com/@VITA-Academy/)
